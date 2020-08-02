@@ -2,6 +2,7 @@
 
 ```
 sudo apt install docker.io
+sudo service docker start
 ```
 
 
