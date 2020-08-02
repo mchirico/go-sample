@@ -1,11 +1,3 @@
-# Docker
-
-```
-sudo apt install docker.io
-sudo service docker start
-```
-
-
 
 # Try Out Development Containers: Go
 
